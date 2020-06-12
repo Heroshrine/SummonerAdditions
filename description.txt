@@ -1,0 +1,12 @@
+Summoner Additions adds a few summoning-related items to buff summoners in Terraria! This is my first ever mod, so I did not go too crazy with the additions. Thank you for giving the time to even read this!
+
+Pre-Hardmode:
+-Living Spore (2/25 drop chance from jungle spores)
+-Living Band
+-Minion Strength Potion
+
+Hardmode:
+-Tuft of Unicorn Hair (1/20 drop chance from unicorns)
+-Rainbow Totem
+-Living Totem
+-Pygmy Totem
